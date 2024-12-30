@@ -30,10 +30,10 @@ To view the project locally, you can either open the project files in your code 
 
 #### Part 1.
 
-- [ ] View the site with Live Preview.
-- [ ] Read the concept content served from `index.html`.
-- [ ] Do the experiment section inside `index.js`.
-- [ ] When finished with experimenting, comment out everything in `index.js`. You can use these as references for future project/assignments.
+- [x] View the site with Live Preview.
+- [x] Read the concept content served from `index.html`.
+- [x] Do the experiment section inside `index.js`.
+- [x] When finished with experimenting, comment out everything in `index.js`. You can use these as references for future project/assignments.
 
 #### Part 2
 
