@@ -25,6 +25,7 @@
     --clr-surface-tonal-a40: #78757e;
     --clr-surface-tonal-a50: #918f96;
     --clr-text: #fff;
+    --clr-error: #e92727;
 }
 
 body {
@@ -147,4 +148,12 @@ code {
 
 .self-center {
     align-self: center;
+}
+
+.error-text {
+    color: var(--clr-error);
+}
+
+.error-input {
+    border: 1px solid var(--clr-error);
 }
